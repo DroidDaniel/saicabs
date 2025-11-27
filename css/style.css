@@ -116,26 +116,6 @@ header nav a {
     margin: 0.5rem;
 }
 
-.whatsapp-button {
-    position: relative;
-    background-color: #25D366;
-    color: white;
-}
-
-.whatsapp-button::before {
-    content: '';
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 100%;
-    height: 100%;
-    background-color: #25D366;
-    border-radius: 5px;
-    transform: translate(-50%, -50%);
-    z-index: -1;
-    animation: cta-shockwave 2s infinite;
-}
-
 
 /* Sections */
 section {
