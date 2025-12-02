@@ -289,6 +289,8 @@ footer {
 
 .copyright {
     margin-top: 1rem;
+    border-top: solid 1px #928fda;
+    padding-top: 15px;
 }
 
 /* Responsive */
@@ -326,5 +328,5 @@ footer {
 }
 
 .contact-info{
-    text-align: right;
+    text-align: left;
 }
